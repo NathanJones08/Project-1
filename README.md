@@ -7,6 +7,12 @@ This repository includes the files for Project No.1
 ## Project Code
 - [Project Code](https://github.com/NathanJones08/Project-1/blob/main/Project%201%20(1).ipynb)
 
+## Scope of Work
+- [SOW](https://github.com/NathanJones08/Project-1/blob/main/SOW%20for%20Project%20%231%20(1).docx)
+
+### ANNOTATED CODE DOCUMENT
+- [ACD](https://github.com/NathanJones08/Project-1/blob/main/ACD%20for%20Projcet%20%231.docx)
+
 ## Prompts
 1. What are the 5 locations in Nebraska with the highest mean and median concentrations of VOC, PM 2.5 and PM 10.0?
 2. On what days did the maximum values occur and where did this maximums occur?
