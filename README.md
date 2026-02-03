@@ -47,4 +47,7 @@ This repository includes the files for Project No.1
 - The altitude will be referenced against air quality to visualize if there is a noticeable difference.
 
 ### Final Deliverable
-- As a final deliverable our team will include the cleaned CSV file and the raw data file. 
+- As a final deliverable our team will include the cleaned CSV file and the raw data file.
+
+### Summary
+- [Final Summary](https://github.com/NathanJones08/Project-1/blob/main/Summary%20for%20Project%20%231.docx)
